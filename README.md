@@ -17,3 +17,9 @@
 | ✅ systeme de passage d'un niveau a l'autre avec transition | **2** |
 | ⬜ Connexion a une bdd | **3** |
 | ⬜ CRUD | **4** |
+
+## TECHNOLOGIES UTILISEES
+
+C#
+Unity
+Sprites extérieurs
