@@ -20,6 +20,6 @@
 
 ## TECHNOLOGIES UTILISEES
 
-C#
-Unity
-Sprites extérieurs
+- C#
+- Unity
+- Sprites extérieurs
